@@ -20,7 +20,7 @@ namespace ReverseNumber
 
 
             }
-            Console.WriteLine(+  reverse  + "  is a reverse of a number  ");
+            Console.WriteLine(+  reverse  + " : is a reverse of a number  ");
             Console.ReadLine();
         }
     }
